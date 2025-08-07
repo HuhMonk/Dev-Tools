@@ -1,3 +1,5 @@
+<a href="https://discord.gg/8tuuGjuEE9"><img src="https://img.shields.io/badge/discord-brightgreen.svg?style=for-the-badge&logo=discord&colorA=23272a&colorB=7289da" alt="Discord!"></a>
+
 # Dev-Tools
 this is a script you can use for making development easier in scripting by adding new useful attributes
 
